@@ -1,7 +1,7 @@
-# -The-MatrixOperations_v_CUDA
+# Matrix Operations vs CUDA
 ## Single Threading, Multi-Threading, CUDA GPU Multithreading - A Simple Comparison
 
-*This repository is for code accrued for CoE 135 Project 2019
+*This repository is for code accrued for CoE 135 Project 2019*
 
 ### Introduction - 
 Our mission for this project was to design a coding project relevant to our learnings throughout the course of CoE 135 - an introduction to operating systems.
