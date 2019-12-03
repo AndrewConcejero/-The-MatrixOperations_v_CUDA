@@ -23,21 +23,34 @@ We opted to conduct a study on the performance benefits of CPU Multithreading an
 > *see cuda_thread.cu*
 6. Single-threaded GPU*
 > *Added after further study on CUDA*
+
 > *see cuda.cu*
 7. Multi-core GPU*
 > *Added after further study on CUDA*
+
 > *see cuda_blocks.cu*
 
 ### References:
 -Methodology and Preliminary Results Slides
+
 https://docs.google.com/presentation/d/1AIv7b7DLuQJfmB37t8FfliVU1zJ_vOKIJhV-LP9C5ng/edit?usp=sharing
+
 -CUDA Crash Course
+
 https://devblogs.nvidia.com/even-easier-introduction-cuda/
--Documentation of anaconda (CUDA running of python files)
+
+-Documentation of anaconda (CUDA running of python files) 
+
 https://docs.anaconda.com/numbapro/CUDAJit/
+
 -Measuring execution time of python files
+
 https://pythonhow.com/measure-execution-time-python-code/
+
 http://www.sean-cooke.com/docs/multithreading.pdf
+
 http://www.each.usp.br/dc/papers/kcfgb-para08.pdf
+
 https://github.com/rwl/JSuperLU
+
 https://github.com/WayneDW/Parallel-Solvers-for-Linear-System
