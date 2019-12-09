@@ -19,6 +19,8 @@ We opted to conduct a study on the performance benefits of CPU Multithreading an
 > *see realSingle.py*
 4. Multi-threaded CPU
 > *see multi.py*
+
+>*see trial.c*
 5. Multi-threaded GPU (CUDA)
 > *see cuda_thread.cu*
 6. Single-threaded GPU*
@@ -30,7 +32,13 @@ We opted to conduct a study on the performance benefits of CPU Multithreading an
 
 > *see cuda_blocks.cu*
 
+>*see testcuda.cu*
+
 ### References:
+-Project Documentation 
+
+https://docs.google.com/document/d/1enKJM_xJwA50bNZ2vMm9rgXEGuG7U6Jdd2W1JcpCy4o/edit?usp=sharing
+
 -Methodology and Preliminary Results Slides
 
 https://docs.google.com/presentation/d/1AIv7b7DLuQJfmB37t8FfliVU1zJ_vOKIJhV-LP9C5ng/edit?usp=sharing
